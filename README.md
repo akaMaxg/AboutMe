@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Fullstack .NET program, along with consulting within Defence.<br>🤝 I’m looking for help with finding useful resources for learning .NET, databases and anything that could be relevant.<br>🌱 I’m currently learning SQL, NoSQL<br>💬 Ask me about Complex system:s lifecycles!<br>⚡ Fun fact: Most people fall asleep in seven minutes.
+🔭 I’m currently working on my Fullstack .NET program, along with consulting within Defence.<br>🤝 I’m looking for help with finding useful resources for learning .NET, databases and anything that could be relevant.<br>🌱 I’m currently learning SQL, NoSQL<br>💬 Ask me about Complex system's lifecycles!<br>⚡ Fun fact: Most people fall asleep in seven minutes.
 
 
 ## 🌐 Socials:
